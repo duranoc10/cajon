@@ -1,2 +1,2 @@
-# cajon
+# caja
 caja de recuerdos
